@@ -14,18 +14,3 @@ rep(x, 3) {
 1
 2
 ```
-
-## #define REP(i,a,b) for(int i=a;i<b;i++)
-
-```c++
-int x;
-REP(x, 1, 4) {
-    cout << n << endl;
-}
-```
-
-```output
-1
-2
-3
-```
